@@ -4,7 +4,7 @@
 </div>
 
 ### About me
-I'm an experienced software developer, mainly focused on embedded and backend areas on Linux systems. I'm very passionate about learning new technologies as well as meeting devs from all over the world to share thoughts, opinions and contribute to common projects thanks to the Internet.
+I'm an experienced software developer, mainly focused on embedded and backend areas on Linux systems. I'm very passionate about learning new technologies as well as meeting devs from all over the world to share thoughts, opinions and contribute to common projects thanks to the Internet. Strong advocate of SOLID principles and good coding practices.
 
 - 🌱 I’m currently improving my skills in software design and DevOps (Jenkins, Docker)
 - ⚡ I’m currently working on moving from C++11/14 to C++17/20. Thinking of learning Rust in the future.
@@ -49,3 +49,9 @@ Join C-eekers! We made this community to help C/C++ beginners and intermediates 
   <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="GCC" **alt="GCC" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQlite" **alt="SQlite" width="40" height="40"/>
 </div>
+
+### Books I strongly recommend take a look
+  * [Clean Architecture A Craftsman's Guide to Software Structure and Design](https://www.oreilly.com/library/view/clean-architecture-a/9780134494272/)
+  * [Clean Code](https://www.oreilly.com/library/view/clean-code-a/9780136083238/)
+  * [Design_patterns_elements_of_reusable_OO_software](https://www.oreilly.com/library/view/design-patterns-elements/0201633612/)
+  * [Modern_software_engineering](https://www.oreilly.com/library/view/modern-software-engineering/9780137314942/)
