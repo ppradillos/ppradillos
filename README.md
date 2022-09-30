@@ -50,8 +50,8 @@ Join C-eekers! We made this community to help C/C++ beginners and intermediates 
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQlite" **alt="SQlite" width="40" height="40"/>
 </div>
 
-### Books I strongly recommend take a look
+### Books which are worth taking a look, IMHO
   * [Clean Architecture A Craftsman's Guide to Software Structure and Design](https://www.oreilly.com/library/view/clean-architecture-a/9780134494272/)
   * [Clean Code](https://www.oreilly.com/library/view/clean-code-a/9780136083238/)
-  * [Design_patterns_elements_of_reusable_OO_software](https://www.oreilly.com/library/view/design-patterns-elements/0201633612/)
-  * [Modern_software_engineering](https://www.oreilly.com/library/view/modern-software-engineering/9780137314942/)
+  * [Design patterns elements of reusable OO software](https://www.oreilly.com/library/view/design-patterns-elements/0201633612/)
+  * [Modern software engineering](https://www.oreilly.com/library/view/modern-software-engineering/9780137314942/)
