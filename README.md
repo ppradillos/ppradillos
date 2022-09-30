@@ -4,7 +4,7 @@
 </div>
 
 ### About me
-I'm an experienced software developer, mainly focused on embedded and backend areas on Linux systems. I'm very passionate about learning new technologies as well as meeting devs from all over the world to share thoughts, opinions and contribute to common projects thanks to the Internet. Strong advocate of SOLID principles and good coding practices.
+I'm an experienced software developer, mainly focused on embedded and backend development for Linux systems. I'm very passionate about learning new technologies as well as meeting devs from all over the world to share thoughts, opinions and contribute to common projects thanks to the Internet. Strong advocate of SOLID principles and good coding practices.
 
 - 🌱 I’m currently improving my skills in software design and DevOps (Jenkins, Docker)
 - ⚡ I’m currently working on moving from C++11/14 to C++17/20. Thinking of learning Rust in the future.
